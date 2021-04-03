@@ -1,4 +1,4 @@
-# Contributing to typeorm-fixture-builder
+# Contributing to react-yasm
 
-Want to contribute to typeorm-fixture-builder? You're welcome! By now, just start by simply open an issue with what you want to add or
+Want to contribute to react-yasm? You're welcome! By now, just start by simply open an issue with what you want to add or
 contact me directly.
